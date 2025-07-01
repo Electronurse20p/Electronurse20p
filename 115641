@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Imran Uthman | Electronurse</title>
+  <style>
+    body {
+      background-color: #f0f8ff;
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    header {
+      background-color: #008080;
+      color: white;
+      padding: 20px;
+    }
+    section {
+      padding: 30px;
+    }
+    .bio {
+      max-width: 600px;
+      margin: auto;
+      font-size: 18px;
+      color: #333;
+      line-height: 1.6;
+    }
+    footer {
+      background-color: #eee;
+      padding: 15px;
+      font-size: 14px;
+      color: #444;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Imran Uthman</h1>
+    <h2>Electronurse</h2>
+  </header>
+
+  <section>
+    <h3>About Me</h3>
+    <div class="bio">
+      <p>My name is <strong>Imran Uthman</strong>, a 20-year-old second-year nursing student based in Chipoka, Salima, Malawi. I am passionate about integrating healthcare with technology through hands-on projects in electronics, programming, and mechanical engineering.</p>
+      <p>As “<strong>Electronurse</strong>,” I design and build functional prototypes such as robotic mechanisms and other creative tech solutions. My vision is to apply technical innovation to solve real-world problems in healthcare and beyond.</p>
+    </div>
+  </section>
+
+  <footer>
+    &copy; 2025 Imran Uthman | Electronurse. All rights reserved.
+  </footer>
+
+</body>
+</html>
